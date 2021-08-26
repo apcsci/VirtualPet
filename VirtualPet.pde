@@ -18,7 +18,7 @@ public void draw() {
   //System.out.println(y);
   background(117,218,255);
   fill(91,194,54);
-  rect(0,300,400,100);
+  rect(-100,300,500,100);
   
   //ears
   translate(250,76);
